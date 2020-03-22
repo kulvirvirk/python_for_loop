@@ -12,7 +12,7 @@ for x in range(5):
 	print(str(x+1) + '. My name is Singh!')
 print('-------------*********-------------\n')
 
-# 3. using a for loop - add numbers from 1 to 100
+# 3. using a for loop - add numbers from 0 to 100
 total = 0
 for num in range(101):
   total = total + num; 
