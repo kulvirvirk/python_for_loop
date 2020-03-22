@@ -1,4 +1,8 @@
-# 1. for loop example 
+# 1. print name five times
+
+for x in range(5):
+	print(str(x) + '. My name is Singh!')
+
 
 
 
